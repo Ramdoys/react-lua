@@ -3,7 +3,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/Roblox/roact-alignment/badge.svg?branch=master&t=TvTSze)](https://coveralls.io/github/Roblox/roact-alignment?branch=master)
 [![Docs](https://img.shields.io/badge/docs-website-green.svg)](https://roblox.github.io/roact-alignment/)
 
-A comprehensive, but not exhaustive, translation of upstream ReactJS 17.x into Luau.
+A comprehensive, but not exhaustive, translation of upstream ReactJS 17.x into Luau for Roblox.
 
 ## TL;DR
 
